@@ -4,7 +4,8 @@ A simple and intuitive To-Do app built with **Next.js** to manage your tasks eff
 tasks as completed, filter tasks according to date.
 
 ## Features
-
+- Signup
+- Login
 - Add tasks to your to-do list.
 - Mark tasks as completed or pending.
 - Delete tasks from the list.
