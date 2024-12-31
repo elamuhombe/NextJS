@@ -17,7 +17,8 @@ tasks as completed, filter tasks according to date.
 - **Next.js version 15.1.3**: A React framework for building fast and scalable applications.
 - **React version 19**: A JavaScript library for building user interfaces.
 - **Tailwind version 3.4.1**: For styling the app.
-- **React hooks**: For managing state (useState, useEffect).
+- **ReduxToolKit**: For global state management
+- **React hooks**: For managing component state locally (useState, useEffect).
 
 ## Setup Instructions
 
