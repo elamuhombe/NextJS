@@ -1,0 +1,1 @@
+//src/app/(routes)/page.tsx
